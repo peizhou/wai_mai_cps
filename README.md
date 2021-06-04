@@ -27,9 +27,9 @@
  ```https://p.mybei.cn;https://xcf.haozii.com; ```
 
 - 小程序管理后台配置你的赚钱链接
-  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei95 开通
+  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei94 开通
 
-   <img width="600" src="https://img.mybei.cn/1611890058134.jpg"/>
+   <img width="600" src="https://img.mybei.cn/zp_qr.png"/>
 
 
 
