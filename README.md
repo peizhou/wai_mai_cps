@@ -2,16 +2,13 @@
 
 # 外卖红包小程序 美团外卖小程序 饿了么外卖小程序 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 
-# 项目介绍
+# 项目官网
 
-- <a href="https://mp.weixin.qq.com/s/K2rjn4zg5-COfyuVmeTDnw">外卖cps淘客项目，被动引流月赚1w的赚钱玩法</a>
-
-- <a href="https://mp.weixin.qq.com/s/t9Lmcqc6i8c2n-50cU6M9g">外卖淘客CPS项目复盘与演进</a>
+ http://y.mybei.cn
 
 
 # 案例演示
 
-## 不裂变版本体验
 
    <img width="200" src="https://img.mybei.cn/WechatIMG84.jpeg"/>
 
