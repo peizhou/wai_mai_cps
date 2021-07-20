@@ -9,11 +9,11 @@
 - <a href="https://mp.weixin.qq.com/s/t9Lmcqc6i8c2n-50cU6M9g">外卖淘客CPS项目复盘与演进</a>
 
 
-# 不裂变的版本免费提供
+# 案例演示
 
 ## 不裂变版本体验
 
-   <img width="200" src="https://img.mybei.cn/WechatIMG14.jpeg"/>
+   <img width="200" src="https://img.mybei.cn/WechatIMG84.jpeg"/>
 
 ## 使用步骤
 
@@ -48,7 +48,7 @@
 # 上线案例
 
 <div>
-<img width="120" src="https://img.mybei.cn/gh_a2da4e276f80_258.jpg"/>
+<img width="120" src="https://img.mybei.cn/WechatIMG84.jpeg"/>
 </div>
 
 # 后台地址
